@@ -1,5 +1,5 @@
 # Roman to Interger Converter
-a RomanNumeral class aand a convert_roman_to_integer function to convert Roman numerals to integers. The code includes validation to ensure the input Roman numerals are valid.
+The code need to have a RomanNumeral class and a convert_roman_to_integer function to convert Roman numerals to integers. The code includes validation to ensure the input Roman numerals are valid.
 
 Here's a brief overview of how the code works:
 
